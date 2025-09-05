@@ -111,7 +111,7 @@ while true; do wget -q -O- http://vote; done
 * `vote` Deployment scales between **1–5 replicas** based on CPU utilization.
 ![WhatsApp Image 2025-09-05 at 14 58 01_79931d4f](https://github.com/user-attachments/assets/0bcc362a-2cca-4498-a139-362aa1039709)
 
-![WhatsApp Image 2025-09-05 at 14 59 47_6e6a7982](https://github.com/user-attachments/assets/4baf826a-e48e-4081-b412-a85401b51d5e)
+   ![WhatsApp Image 2025-09-05 at 14 59 47_6e6a7982](https://github.com/user-attachments/assets/4baf826a-e48e-4081-b412-a85401b51d5e)
 
 
 * HPA events visible in Lens.
